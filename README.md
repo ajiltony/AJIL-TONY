@@ -1,7 +1,4 @@
 # AJIL-TONY
-# MERN STACK DEVELOPER
-
-
 ajiltony/README.md
 
     wave Hi, I’m @ajiltony
